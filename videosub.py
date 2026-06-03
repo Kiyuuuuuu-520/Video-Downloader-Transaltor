@@ -15,7 +15,7 @@ OUTPUT_DIR = Path("outputs")
 SEPARATOR = "\n"          # 链接分隔符，改成 "," 或 "|" 等
 WHISPER_MODEL = "small"    # tiny / base / small / medium / large
 
-GOOGLE_API_KEY = "AIzaSyC8Gz3j0uxjYwZ7HzB0g2Sy-DAAk47M0bw"  # 填入你的 API key
+GOOGLE_API_KEY = ""  # 填入你的 API key
 
 
 def run(cmd, desc=""):
